@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-turso-edge",
+  "version": "1.0.0",
+  "description": "Distributed edge LibSQL database caching with kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
